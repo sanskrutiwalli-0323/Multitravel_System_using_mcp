@@ -1,0 +1,23 @@
+# AviationStack MCP external package
+aviationstack-mcp/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+langgraph_env3/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
