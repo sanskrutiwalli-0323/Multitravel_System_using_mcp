@@ -1,6 +1,6 @@
-# Build a Multi-Agent Travel Planning System using LangGraph + MCP
+# Multi-Agent Travel Planning System with LangGraph and MCP
 
-This project extends the Multi-Agent Travel Planning System built in Part 1 by integrating MCP (Model Context Protocol) servers for real-time flight and weather data.
+This project extends a Multi-Agent Travel Planning System by integrating Model Context Protocol (MCP) servers to access real-time flight and weather information.
 
 # Requirements
 
